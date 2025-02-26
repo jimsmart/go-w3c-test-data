@@ -2529,8 +2529,8 @@
    .
 
 <#trig-syntax-bad-LITERAL2_with_langtag_and_datatype> rdf:type rdft:TestTrigNegativeSyntax ;
-   mf:name    "trig-syntax-bad-LITERAL2_with_langtag_and_datatype" ;
-   rdfs:comment "literal may not have both langtag and datatype" ;
+   mf:name    "trig-syntax-bad-num-05" ;
+   rdfs:comment "Bad number format (negative test)" ;
    rdft:approval rdft:Approved ;
    mf:action    <trig-syntax-bad-LITERAL2_with_langtag_and_datatype.trig> ;
    .

@@ -2449,8 +2449,8 @@
    .
 
 <#turtle-syntax-bad-LITERAL2_with_langtag_and_datatype> rdf:type rdft:TestTurtleNegativeSyntax ;
-   mf:name    "turtle-syntax-bad-LITERAL2_with_langtag_and_datatype" ;
-   rdfs:comment "literal may not have both langtag and datatype" ;
+   mf:name    "turtle-syntax-bad-num-05" ;
+   rdfs:comment "Bad number format (negative test)" ;
    rdft:approval rdft:Approved ;
    mf:action    <turtle-syntax-bad-LITERAL2_with_langtag_and_datatype.ttl> ;
    .
